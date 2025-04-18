@@ -1,6 +1,6 @@
 {
-    "name": "logiscape/mcp-sdk-php",
-    "description": "Model Context Protocol SDK for PHP",
+    "name": "huapuer/mcp-sdk-php",
+    "description": "Model Context Protocol SDK for PHP fork from logiscape/mcp-sdk-php",
     "type": "library",
 	"license": "MIT",
     "autoload": {
